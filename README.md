@@ -23,3 +23,5 @@ addendum: see https://github.com/lipp/nodish
 Also, a.out
 
 stateless?
+
+Code provided is exemplary and a derivative.
