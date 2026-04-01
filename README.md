@@ -1,5 +1,5 @@
 # Concord-tm-final
-everything else is a derivative, not compiled with either cc not c++ nor clang nor clang++, but can be.
+everything else is a derivative, not compiled conventionally
 
 Patent rights belong to author.
 
