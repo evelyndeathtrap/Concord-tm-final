@@ -4,7 +4,6 @@ everything else is a derivative, not compiled with either cc not c++ nor clang n
 Patent rights belong to author.
 
 ```c
-  GNU nano 8.4              h.c
 #include <stdio.h>
 
 unsigned char absolve() { return 1; }
