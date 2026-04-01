@@ -1,7 +1,7 @@
 # Concord-tm-final
 everything else is a derivative, not compiled conventionally
 
-Patent rights to that, plus, surgicals belong to author.
+Patent rights to that, plus, surgicals belong to respective authors.
 
 ```c
 #include <stdio.h>
